@@ -18,7 +18,7 @@ import android.widget.Toast;
 
 import androidx.fragment.app.Fragment;
 
-public class gyroscopeFragment extends Fragment {
+public class GyroscopeFragment extends Fragment {
 
     private SensorManager sensorManager;
     private Sensor gyroscopeSensor;

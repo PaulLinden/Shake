@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
             FragmentManager fragmentManager = getSupportFragmentManager();
             FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
 
-            gyroscopeFragment myFragment = new gyroscopeFragment();
+            GyroscopeFragment myFragment = new GyroscopeFragment();
             fragmentTransaction.add(R.id.fragment_container, myFragment);
             fragmentTransaction.commit();
         }
