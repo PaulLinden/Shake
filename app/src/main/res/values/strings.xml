@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Shake</string>
+    <string name="x">Velocity of X = </string>
+    <string name="z">Velocity of Z = </string>
+    <string name="y">Velocity of Y = </string>
+</resources>
